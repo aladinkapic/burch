@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'i_clk'
+Slack : -2.384
+TNS   : -85.500
+
+Type  : Slow 1200mV 85C Model Setup 'digitalFilter_v:inst|final_value'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'digitalFilter_v:inst|final_value'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'i_clk'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i_clk'
+Slack : -3.000
+TNS   : -73.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'digitalFilter_v:inst|final_value'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Slow 1200mV 0C Model Setup 'i_clk'
+Slack : -2.069
+TNS   : -70.498
+
+Type  : Slow 1200mV 0C Model Setup 'digitalFilter_v:inst|final_value'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'digitalFilter_v:inst|final_value'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'i_clk'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i_clk'
+Slack : -3.000
+TNS   : -73.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'digitalFilter_v:inst|final_value'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Fast 1200mV 0C Model Setup 'i_clk'
+Slack : -0.882
+TNS   : -21.063
+
+Type  : Fast 1200mV 0C Model Setup 'digitalFilter_v:inst|final_value'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'digitalFilter_v:inst|final_value'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'i_clk'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i_clk'
+Slack : -3.000
+TNS   : -77.041
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'digitalFilter_v:inst|final_value'
+Slack : -1.000
+TNS   : -12.000
+
+------------------------------------------------------------

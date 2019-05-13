@@ -1,0 +1,41 @@
+Added Component: Designator=R44(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_1 Pin=R44-1
+Added Pin To Net: NetName=NetIC2_4 Pin=R44-2
+Added Member To Class: ClassName=scheme Member=Component C21 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C22 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C23 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C24 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C25 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component D3 Diode 1N4001
+Added Member To Class: ClassName=scheme Member=Component D4 Diode 1N4001
+Added Member To Class: ClassName=scheme Member=Component ENC-2 DG301-5.0-2P-12
+Added Member To Class: ClassName=scheme Member=Component IC1 LM324AM
+Added Member To Class: ClassName=scheme Member=Component IC2 LM339AM
+Added Member To Class: ClassName=scheme Member=Component LM7805 LM7805ACT
+Added Member To Class: ClassName=scheme Member=Component Power DG301-5.0-3P-12
+Added Member To Class: ClassName=scheme Member=Component R41 Res3
+Added Member To Class: ClassName=scheme Member=Component R42 Res3
+Added Member To Class: ClassName=scheme Member=Component R43 Res3
+Added Member To Class: ClassName=scheme Member=Component R44 Res3
+Added Member To Class: ClassName=scheme Member=Component R45 Res3
+Added Member To Class: ClassName=scheme Member=Component R46 Res3
+Added Member To Class: ClassName=scheme Member=Component R47 Res3
+Added Member To Class: ClassName=scheme Member=Component R48 Res3
+Added Member To Class: ClassName=scheme Member=Component R50 Res3
+Added Member To Class: ClassName=scheme Member=Component R51 Res3
+Added Member To Class: ClassName=scheme Member=Component R52 Res3
+Added Member To Class: ClassName=scheme Member=Component R53 Res3
+Added Member To Class: ClassName=scheme Member=Component R54 Res3
+Added Member To Class: ClassName=scheme Member=Component R55 Res3
+Added Member To Class: ClassName=scheme Member=Component R56 Res3
+Added Member To Class: ClassName=scheme Member=Component R57 Res3
+Added Member To Class: ClassName=scheme Member=Component S Component_1
+Added Room: Name=scheme

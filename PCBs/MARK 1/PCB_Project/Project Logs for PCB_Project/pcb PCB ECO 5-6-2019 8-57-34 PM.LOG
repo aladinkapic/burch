@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R43 Old Footprint=J1-0603 New Footprint=C1206
+Added Member To Class: ClassName=scheme Member=Component UTP_2 Header 2

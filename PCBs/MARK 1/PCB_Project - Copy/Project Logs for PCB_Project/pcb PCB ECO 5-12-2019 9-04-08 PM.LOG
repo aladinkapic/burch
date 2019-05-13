@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=39 NewDesignator=IC2
+Added Component: Designator=OUT(SHDR3W110P0X500_1X3_1500X760X1000P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/gb/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DG301-5.0-3P-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=NetOUT_1 Pin=S-4
+Added Net: Name=NetOUT_1
+Added Pin To Net: NetName=NetOUT_3 Pin=OUT-3
+Added Pin To Net: NetName=NetOUT_3 Pin=S-2
+Added Net: Name=NetOUT_3
+Added Member To Class: ClassName=scheme Member=Component OUT DG301-5.0-3P-12
+Added Room: Name=scheme

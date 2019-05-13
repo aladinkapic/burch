@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC +15V Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=VCC -15 Pin=C25-2
+Removed Member From Class: ClassName=scheme Member=C22
+Removed Member From Class: ClassName=scheme Member=C25
+Added Component: Designator=IC?(SOIC127P600X175-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm324-n.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM324AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM324AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM324AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "4713839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=scheme Member=Component IC? LM339AM

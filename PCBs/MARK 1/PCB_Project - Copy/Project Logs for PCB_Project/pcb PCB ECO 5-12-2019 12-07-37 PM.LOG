@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetENC-2_1 Pin=ENC-2-1
+Removed Pin From Net: NetName=NetENC-2_2 Pin=ENC-2-2
+Change Component Designator: OldDesignator=ENC-1 NewDesignator=ENC-2
+Added Component: Designator=ENC-3(SHDR2W110P0X500_1X2_1000X760X1000P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/gb/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DG301-5.0-2P-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetENC-2_1 Pin=ENC-2-1
+Added Pin To Net: NetName=NetENC-2_2 Pin=ENC-2-2
+Added Pin To Net: NetName=NetENC-1_1 Pin=ENC-3-1
+Added Pin To Net: NetName=NetENC-1_2 Pin=ENC-3-2
+Change Net Name : Old Net Name=NetENC-1_1 New Net Name=NetENC-3_1
+Change Net Name : Old Net Name=NetENC-1_2 New Net Name=NetENC-3_2
+Added Member To Class: ClassName=scheme Member=Component C21 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C22 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C23 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C24 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component C25 Cap Pol3
+Added Member To Class: ClassName=scheme Member=Component D3 Diode 1N4001
+Added Member To Class: ClassName=scheme Member=Component D4 Diode 1N4001
+Added Member To Class: ClassName=scheme Member=Component ENC-2 DG301-5.0-2P-12
+Added Member To Class: ClassName=scheme Member=Component ENC-3 DG301-5.0-2P-12
+Added Member To Class: ClassName=scheme Member=Component IC1 LM324AM
+Added Member To Class: ClassName=scheme Member=Component IC2 LM339AM
+Added Member To Class: ClassName=scheme Member=Component LM7805 LM7805ACT
+Added Member To Class: ClassName=scheme Member=Component Power DG301-5.0-3P-12
+Added Member To Class: ClassName=scheme Member=Component R41 Res3
+Added Member To Class: ClassName=scheme Member=Component R42 Res3
+Added Member To Class: ClassName=scheme Member=Component R43 Res3
+Added Member To Class: ClassName=scheme Member=Component R44 Res3
+Added Member To Class: ClassName=scheme Member=Component R45 Res3
+Added Member To Class: ClassName=scheme Member=Component R46 Res3
+Added Member To Class: ClassName=scheme Member=Component R47 Res3
+Added Member To Class: ClassName=scheme Member=Component R48 Res3
+Added Member To Class: ClassName=scheme Member=Component R50 Res3
+Added Member To Class: ClassName=scheme Member=Component R51 Res3
+Added Member To Class: ClassName=scheme Member=Component R52 Res3
+Added Member To Class: ClassName=scheme Member=Component R53 Res3
+Added Member To Class: ClassName=scheme Member=Component R54 Res3
+Added Member To Class: ClassName=scheme Member=Component R55 Res3
+Added Member To Class: ClassName=scheme Member=Component R56 Res3
+Added Member To Class: ClassName=scheme Member=Component R57 Res3
+Added Member To Class: ClassName=scheme Member=Component S Component_1

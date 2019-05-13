@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R52 NewDesignator=R56
+Change Component Designator: OldDesignator=R56 NewDesignator=R52
+Added Member To Class: ClassName=scheme Member=Component R44 Res3
+Added Room: Name=scheme

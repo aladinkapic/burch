@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Power Old Footprint=HDR1X3 New Footprint=SHDR3W110P0X500_1X3_1500X760X1000P
+Change Component Comment : Designator=Power Old Comment=Header 3 New Comment=DG301-5.0-3P-12
+Change component parameters: Designator = "Power"; Footprint = "SHDR3W110P0X500_1X3_1500X760X1000P"; UniqueID = "\YCASLWUA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/gb/Document/72ad9f371bb0c16572574ac47903b3a1/DG301-5.0.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DG301-5.0-3P-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=scheme Member=Component P? Header 2

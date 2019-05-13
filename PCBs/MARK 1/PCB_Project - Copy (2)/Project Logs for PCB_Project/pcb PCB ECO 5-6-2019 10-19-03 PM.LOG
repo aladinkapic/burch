@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=scheme Member=*
+Added Component: Designator=S(SOIC127P600X175-14N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=S-7
+Added Pin To Net: NetName=VCC +15V Pin=S-14
+Added Member To Class: ClassName=scheme Member=Component IC? LM339AM
+Added Member To Class: ClassName=scheme Member=Component S Component_1

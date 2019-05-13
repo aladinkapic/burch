@@ -1,0 +1,5 @@
+|ADC
+clock => ~NO_FANOUT~
+first_led << comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

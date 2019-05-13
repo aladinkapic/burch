@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Dec 15 15:56:14 2018
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : adc_serial_control
+Top-level Entity Name : adc_serial_control
+Family : Cyclone IV E
+Total logic elements : 74
+    Total combinational functions : 51
+    Dedicated logic registers : 52
+Total registers : 52
+Total pins : 27
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

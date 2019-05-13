@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+
+entity lowPassFilter is
+	port (
+	
+		divided_clock          : in std_logic   -- Ulazni clock u filter
+	
+	);
+	  
+end lowPassFilter;
+
+
+architecture filterBody of lowPassFilter is	
+begin
+
+
+	
+end filterBody;

@@ -1,0 +1,6 @@
+Added Component: Designator=*(SOIC127P600X175-14N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=IC?-1
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=scheme Member=Component * Component_1

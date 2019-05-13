@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity ADC is
+	port(
+	
+	);
+end ADC;
+
+architecture conv of ADC is
+
+
+begin
+
+
+end conv;

@@ -1,0 +1,21 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "green_led",
+					"strict" : false
+				},
+				{
+					"name" : "reset_btn",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50mhz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

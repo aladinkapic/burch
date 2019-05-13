@@ -1,0 +1,42 @@
+|dac
+i_clk => r_sclk_rise.CLK
+i_clk => r_counter_clock[0].CLK
+i_clk => r_counter_clock[1].CLK
+i_clk => r_counter_clock[2].CLK
+i_clk => r_counter_clock[3].CLK
+i_clk => r_counter_clock[4].CLK
+i_clk => r_counter_clock[5].CLK
+i_clk => r_counter_clock[6].CLK
+i_clk => r_counter_clock[7].CLK
+i_clk => r_counter_clock[8].CLK
+i_clk => r_counter_clock[9].CLK
+i_clk => r_counter_clock[10].CLK
+i_clk => r_counter_clock[11].CLK
+i_clk => r_counter_clock[12].CLK
+i_clk => r_counter_clock[13].CLK
+i_clk => r_counter_clock[14].CLK
+i_clk => r_counter_clock[15].CLK
+i_clk => r_counter_clock[16].CLK
+i_clk => r_counter_clock[17].CLK
+i_clk => r_counter_clock[18].CLK
+i_clk => r_counter_clock[19].CLK
+i_clk => r_counter_clock[20].CLK
+i_clk => r_counter_clock[21].CLK
+i_clk => r_counter_clock[22].CLK
+i_clk => r_counter_clock[23].CLK
+i_clk => r_counter_clock[24].CLK
+i_clk => r_counter_clock[25].CLK
+out_data[0] << comb.DB_MAX_OUTPUT_PORT_TYPE
+out_data[1] << out_data[1].DB_MAX_OUTPUT_PORT_TYPE
+out_data[2] << out_data[2].DB_MAX_OUTPUT_PORT_TYPE
+out_data[3] << out_data[3].DB_MAX_OUTPUT_PORT_TYPE
+out_data[4] << out_data[4].DB_MAX_OUTPUT_PORT_TYPE
+out_data[5] << out_data[5].DB_MAX_OUTPUT_PORT_TYPE
+out_data[6] << out_data[6].DB_MAX_OUTPUT_PORT_TYPE
+out_data[7] << out_data[7].DB_MAX_OUTPUT_PORT_TYPE
+out_data[8] << out_data[8].DB_MAX_OUTPUT_PORT_TYPE
+out_data[9] << out_data[9].DB_MAX_OUTPUT_PORT_TYPE
+o_LED << LED.DB_MAX_OUTPUT_PORT_TYPE
+Vcc << <VCC>
+
+
